@@ -1,5 +1,5 @@
 import dronekit, time, uuid, logging
-import IPC.message_object
+import message_object
 
 logger = logging.getLogger(__name__)
 
